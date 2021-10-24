@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VestiaireWeatherApp</string>
+    <string name="back_btn_message">Please click BACK again to exit</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="error_internal_server_error">Internal server error. Please try again later.</string>
+    <string name="error_server_connect_error">Unable to connect to server. Please try again later.</string>
+    <string name="error_invalid_server_data">Unable to fetch valid data from server. Please try again later.</string>
+    <string name="disclaimer_cached_data">The data presented is not updated, please connect to internet to show updated data</string>
+    <string name="paris">Paris</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="cool">Cool</string>
+    <string name="cold">Cold</string>
+    <string name="hot">Hot</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind speed</string>
+</resources>
